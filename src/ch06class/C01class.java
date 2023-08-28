@@ -27,6 +27,8 @@ class Myclass01 {
 
     String name;
 
+    String address;
+
     //instance methods
     //인스턴스가 가져야하는 기능들
 }
