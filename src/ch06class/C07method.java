@@ -18,6 +18,8 @@ public class C07method {
 
 class MyClass07 {
 
+    //field와 method를 묶어서 member라 한다
+
     String name;
 
     void printName() {
