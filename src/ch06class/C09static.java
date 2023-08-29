@@ -32,3 +32,4 @@ class MyClass09 {
 //        System.out.println("name = " + name);
     }
 }
+//캡슐화
